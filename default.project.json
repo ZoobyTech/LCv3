@@ -1,0 +1,11 @@
+{
+  "name": "LCv3",
+  "tree": {
+    "$className": "DataModel",
+    "ServerStorage": {
+      "MainModule": {
+        "$path": "src/mainmodule"
+      }
+    }
+  }
+}
